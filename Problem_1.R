@@ -1,3 +1,6 @@
+## WARNING: do not submit unrunnable code! Otherwise your homework/exam 
+## will not be reviewed and will not be graded at all.
+
 > x <- c(4,1,1,4)
 > x
 [1] 4 1 1 4
@@ -9,7 +12,7 @@
   > # difference between x and y 
     > x - y
   [1]  3 -3  0  0
-  > # because of the different lenght of the vectors. the parametres from y are used twice so the command to be fullfilled
+  > # because of the different lenght of the vectors. the values from y are used twice so the command to be fullfilled
     > # create a new vector z
     > z <- c (x,y)
     > z
